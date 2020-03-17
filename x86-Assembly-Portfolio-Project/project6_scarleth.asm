@@ -3,7 +3,7 @@
 ; Author: Harmony Scarlet
 ; Last Modified: 3/12/2020
 ; OSU email address: scarleth@oregonstate.edu
-; Course number/section: CS271/400
+; Course number/section: CS271/400 
 ; Project Number: 6               Due Date: 3/15/2020
 ; Description: 
 ;						Program that implements its own REadVal and WriteVal procedures. IT

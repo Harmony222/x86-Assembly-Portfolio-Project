@@ -543,10 +543,10 @@ displayResults PROC
 	call	CrLf
 
 ; Display Average
-	displayString [ebp + 16]				; display average result title
-	push	[ebp + 8]					; OFFSET digitString
-	push	[ebp + 12]					; intAverage
-	call	WriteVal					; converts integer to string and displays string
+	displayString [ebp + 16]		; display average result title
+	push	[ebp + 8]			; OFFSET digitString
+	push	[ebp + 12]			; intAverage
+	call	WriteVal			; converts integer to string and displays string
 	call	CrLf
 	call	CrLf
 
